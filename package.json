@@ -1,0 +1,23 @@
+{
+  "name": "watson",
+  "version": "1.0.0",
+  "main": "think.js",
+  "type": "module",
+
+  "scripts": {
+    "start": "node think.js"
+  },
+  "author": "Daniel Sebastião",
+  "license": "MIT",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "chalk-animation": "^2.0.2",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.1",
+    "inquirer": "^8.2.4",
+    "nanospinner": "^1.1.0",
+    "q": "^1.5.1"
+  }
+}

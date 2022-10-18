@@ -1,0 +1,7 @@
+node_modules
+.dbshell
+.gitconfig
+.node_repl_history
+.yarnrc
+fizica
+version.md
